@@ -68,13 +68,15 @@ export default {
 				'gradient-divine': 'var(--gradient-divine)',
 				'gradient-heavenly': 'var(--gradient-heavenly)',
 				'gradient-golden': 'var(--gradient-golden)',
-				'gradient-warm': 'var(--gradient-warm)'
+				'gradient-warm': 'var(--gradient-warm)',
+				'gradient-mystical': 'var(--gradient-mystical)'
 			},
 			boxShadow: {
 				'divine': 'var(--shadow-divine)',
 				'soft': 'var(--shadow-soft)',
 				'glow': 'var(--shadow-glow)',
-				'warm': 'var(--shadow-warm)'
+				'warm': 'var(--shadow-warm)',
+				'mystical': 'var(--shadow-mystical)'
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
